@@ -1,0 +1,18 @@
+knife4j:
+  production: false
+  enable: true
+  setting:
+    language: zh_cn
+    swagger-model-name:
+    custom-code: 500
+    enable-footer-custom: true
+    footer-custom-content:
+    enable-footer: true
+    enable-debug: true
+springdoc:
+  api-docs:
+    enabled: true
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+  default-flat-param-object: true
