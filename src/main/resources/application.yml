@@ -2,7 +2,7 @@ knife4j:
   production: false
   enable: true
   setting:
-    language: zh_cn
+    language: en
     swagger-model-name:
     custom-code: 500
     enable-footer-custom: true
